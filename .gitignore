@@ -1,0 +1,4 @@
+.env
+autopub-env/
+__pycache__/
+*.log
