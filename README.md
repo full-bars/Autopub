@@ -1,5 +1,5 @@
 # AutoPublisher Bot
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 Automatically publishes Discord announcement messages so follower servers get updates instantly — no human delay.
 ---
 
