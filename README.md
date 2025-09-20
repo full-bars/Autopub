@@ -1,7 +1,6 @@
 # AutoPublisher Bot
 
-This bot automatically publishes messages from Discord announcement channels (news channels). Lightweight, restart-safe, and easy to configure.
-
+Automatically publishes Discord announcement messages so follower servers get updates instantly — no human delay.
 ---
 
 ## Setup
