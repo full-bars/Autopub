@@ -77,3 +77,7 @@ sudo systemctl daemon-reload
 sudo systemctl enable autopub
 sudo systemctl start autopub
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
