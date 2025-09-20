@@ -51,7 +51,7 @@ This bot automatically publishes messages from Discord announcement channels (ne
 
 ---
 
-## Optional: Run as a systemd Service (Linux)
+## Optional: Run on boot as a systemd Service (Linux)
 
 Create `/etc/systemd/system/autopub.service`:
 
